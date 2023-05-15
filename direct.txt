@@ -1,3 +1,0 @@
-payload:
-  - '+.bilivideo.com'
-  - '+.akamaized.net'
