@@ -1,3 +1,5 @@
 payload:
   - '+.bilivideo.com'
   - '+.akamaized.net'
+  - '+.360buyimg.com'
+  - '+.jd.com'
