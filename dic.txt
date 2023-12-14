@@ -3,3 +3,7 @@ payload:
   - '+.akamaized.net'
   - '+.360buyimg.com'
   - '+.jd.com'
+  - '+.dl.delivery.mp.microsoft.com'
+  - '+.windowsupdate.com'
+  - '+.steamcontent.com'
+  - '+.steam.clngaa.com'
