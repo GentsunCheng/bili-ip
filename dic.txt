@@ -7,3 +7,4 @@ payload:
   - '+.windowsupdate.com'
   - '+.steamcontent.com'
   - '+.steam.clngaa.com'
+  - '+.ibruce.info'
