@@ -8,3 +8,4 @@ payload:
   - '+.steamcontent.com'
   - '+.steam.clngaa.com'
   - '+.ibruce.info'
+  - '+.wechat.com'
