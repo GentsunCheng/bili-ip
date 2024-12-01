@@ -9,3 +9,6 @@ payload:
   - '+.steam.clngaa.com'
   - '+.ibruce.info'
   - '+.wechat.com'
+  - '+.digicert.com'
+  - '+.bochk.com'
+  - '+.etnet.com.hk'
