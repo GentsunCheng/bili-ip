@@ -6,6 +6,8 @@ payload:
   - '+.dl.delivery.mp.microsoft.com'
   - '+.windowsupdate.com'
   - '+.steamcontent.com'
+  - '+.steamserver.net'
+  - '+.cm.steampowered.com'
   - '+.steam.clngaa.com'
   - '+.ibruce.info'
   - '+.wechat.com'
